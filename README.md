@@ -7,8 +7,6 @@ This repo contains the **SOLUTIONS** of exercises/labs to achieve the badge.
 <!-- ![](certificate.png){width=50%} -->
 <center><img src="certificate.png" alt="Certificate" width=70%/></center>
 
-## Course keynotes and solutions of related quizzes, assignments
-
 Practical Data Science Specialization on Coursera contains three courses:
 
 ### 1. [Course 1: Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models?specialization=practical-data-science)
@@ -24,8 +22,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 > 3. **Deep learning (DL)** is a subset of machine learning that uses artificial neural networks to learn from data.
 
 > 4. **AWS SageMaker** -->
-
-- [x] Practice Quiz:  [Week 1](./course1/week1/Week1_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [Register and visualize dataset](./course1/week1/C1_W1_Assignment.ipynb).
 
@@ -45,8 +41,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 5. **SHAP (SHapley Additive exPlanations)** -->
 
-- [x] Practice Quiz: [Week 2](./course1/week2/Week2_Practice_Quiz.pdf).
-
 - [x] Graded External Tool: [Detect data bias with Amazon SageMaker Clarify](./course1/week2/C1_W2_Assignment.ipynb).
 
 #### Week 3: 
@@ -59,8 +53,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 3. **Model Hosting**. -->
 
-- [x] Practice Quiz: [Week 3](./course1/week3/Week3_Practice_Quiz.pdf).
-
 - [x] Graded External Tool: [Train a model with Amazon SageMaker Autopilot](./course1/week3/C1_W3_Assignment.ipynb).
 
 #### Week 4:
@@ -70,8 +62,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 > 1. **Built-in Alogrithms** in AWS SageMaker supports Classification, Regression, and Clustering problems.
 
 > 2. **Text Analysis Evolution**: Word2Vec (CBOW & Skip-gram), GloVe,  FastText, Transformer, BlazingText, ELMo, GPT, BERT, ... -->
-
-- [x] Practice Quiz: [Week 4](./course1/week4/Week4_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](./course1/week4/C1_W4_Assignment.ipynb).
 
@@ -91,8 +81,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 4. **Feature Store**: centralized, reusable, discoverable. -->
 
-- [x] Practice Quiz: [Week 1](./course2/week1/Week1_Practice_Quiz.pdf).
-
 - [x] Graded External Tool: [Feature transformation with Amazon SageMaker processing job and Feature Store](./course2/week1/C2_W1_Assignment.ipynb).
 
 #### Week 2
@@ -100,8 +88,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 <!-- - [x] Keynotes
 
 > Learn how to train a customized **Pretrained BERT** and its variant models, debug, and profile with AWS SageMaker. -->
-
-- [x] Practice Quiz: [Week 2](./course2/week2/Week2_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [Train a review classifier with BERT and Amazon SageMaker](./course2/week2/C2_W2_Assignment.ipynb).
 
@@ -111,7 +97,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 1. **MLOps** builds on DevOps practices that encompass people, process, and technology. MLOps also includes considerations and practices that are really unique to machine learning workloads. -->
 
-- [x] Practice Quiz: [Week 3](./course2/week3/Week3_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [SageMaker pipelines to train a BERT-Based text classifier](./course2/week3/C2_W3_Assignment.ipynb).
 
@@ -129,7 +114,6 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 3. **Challenges**: checkpointing, distribution training strategy. -->
 
-- [x] Practice Quiz:  [Week 1](./course3/week1/Week1_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [Optimize models using Automatic Model Tuning](./course3/week1/C3_W1_Assignment.ipynb).
 
@@ -138,16 +122,12 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 <!-- - [x] Keynotes -->
 
-- [x] Practice Quiz: [Week 2](./course3/week2/Week2_Practice_Quiz.pdf).
-
 - [x] Graded External Tool: [A/B testing, traffic shifting and autoscaling](./course3/week2/C3_W2_Assignment.ipynb).
 
 
 #### Week 3
 
 <!-- - [x] Keynotes -->
-
-- [x] Practice Quiz:  [Week 3](./course3/week3/Week3_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](./course3/week3/C3_W3_Assignment.ipynb).
 
@@ -157,4 +137,4 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 The solutions here are **ONLY FOR REFERENCE** to guide you if you get stuck somewhere. Highly recommended to try out the quizzes and assignments yourselves first before referring to the solutions here.
 
-Feel free to discuss further with me on [![Linkedin: hognhanhh](https://img.shields.io/badge/-HongHanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/hồng-hạnh-0b886212a/)](linkedin.com/in/hồng-hạnh-0b886212a/).
+Feel free to discuss further with me on [![Linkedin: mesbahiba](https://img.shields.io/badge/-mesbahiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mesbahiba/).
